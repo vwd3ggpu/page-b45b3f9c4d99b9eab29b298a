@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9124c23db6369c7537bd57c0",
+  "owner": "vwd3ggpu",
+  "repo": "page-b45b3f9c4d99b9eab29b298a",
+  "title": "花云(FlowerCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b45b3f9c4d99b9eab29b298a",
+      "a": "花云(FlowerCloud)",
+      "b": "免费订阅分享",
+      "entity": "花云(FlowerCloud)",
+      "brand": "花云(FlowerCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c6eab910ac8a8e3f5a66b431101ce1ca5b8043972080960f5500b6d0fb9c7e31",
+      "content": {
+        "primary_entity": "花云(FlowerCloud)",
+        "keyword1": "花云(FlowerCloud)",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_DESCRIPTION": "，花云(FlowerCloud)提供基础版、旗舰版与团队版三档订阅，月付与年付价格清晰。基础版每月100GB流量、3台设备在线，适合个人日常；旗舰版每月300GB流量、5台设备，带IPLC专线与流媒体解锁；团队版每月1000GB流量、20台设备，支持定制路由。根据使用人数和流量需求选择，年付可省两个月费用。",
+          "AI_HERO_SUBTITLE": "三档套餐按需选",
+          "AI_HERO_INTRO": "花云(FlowerCloud)面向需要跨境网络加速的用户，按设备数量和月流量划分基础版、旗舰版、团队版。个人轻度使用选基础版，多设备或游戏加速选旗舰版，团队协作选团队版。年付方案在月付价格基础上更划算，先确认设备数量再决定套餐。",
+          "AI_VISUAL_TITLE": "花云加速套餐对比",
+          "AI_HIGHLIGHT_1": "基础版15元享100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版35元含IPLC专线",
+          "AI_HIGHLIGHT_3": "团队版85元支持20台设备",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "从套餐、设备、订阅周期三个角度了解花云的使用方式。",
+          "AI_FEATURE_TITLE_1": "套餐按流量分档",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，月付价格分别为15元、35元、85元，按实际用量选档。",
+          "AI_FEATURE_TITLE_2": "设备数量决定档位",
+          "AI_FEATURE_TEXT_2": "基础版支持3台，旗舰版5台，团队版20台。手机、电脑、平板同时在线时，优先考虑旗舰版及以上。",
+          "AI_FEATURE_TITLE_3": "年付节省两个月",
+          "AI_FEATURE_TEXT_3": "基础版年付150元、旗舰版350元、团队版850元，相当于按月付十个月计算，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并导入订阅链接。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版增加流量与设备数并带专线优化，团队版面向多设备高流量场景。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "确认需求后按步骤完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "统计日常在线设备数和每月大致流量，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本和网络环境满足客户端运行要求，预留足够的本地存储空间。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "下载对应客户端后，按照客户端文档导入订阅链接，完成节点选择与连接测试。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选择花云套餐，年付方案更划算。",
+          "AI_FAQ_ANSWER_1": "在支持的业务系统中完成注册，选择月付或年付方案，支付成功后即可在客户端导入订阅信息。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版 5 台，团队版 20 台，按同时在线设备数计算，超出需升级套餐。",
+          "AI_FAQ_ANSWER_3": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用；基础版使用普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，均相当于按年付折扣。",
+          "AI_FAQ_ANSWER_5": "主流客户端支持订阅导入，手机用 Shadowrocket、Clash，电脑用 Clash Verge、v2rayN，按客户端文档配置即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花云怎么注册和购买？",
+          "AI_FAQ_QUESTION_2": "套餐允许几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线有什么优势？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端导入订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "71365ed03ea115022ec49d254d2d118c9adce2acd0bfa385d41a1cd63c9c857f",
+    "sitemap.xml": "f5b8cd6b53b4d7bad7241ba9660f0312327ff8378cde2ee899cf942ad6e07ed5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "bf96eefde41721d98b9de3392c77ccfd614f01702c22969087850903bcf6e72a"
+}
